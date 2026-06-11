@@ -1,0 +1,12 @@
+{
+  "code": "KPRO",
+  "name": "konnectpro",
+  "version_major": 2,
+  "version_minor": 3,
+  "version_build": 1,
+  "os": "win32",
+  "published_date": "2026-06-10T18:15:15.786+0800",
+  "size": 403070976,
+  "download_url": "https://accoblobstorageus.blob.core.windows.net/software/version/konnectpro/KonnectSetup.msi",
+  "active": true
+}
