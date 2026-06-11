@@ -1,0 +1,12 @@
+{
+  "code": "KPRO",
+  "name": "konnectpro",
+  "version_major": 2,
+  "version_minor": 3,
+  "version_build": 0,
+  "os": "darwin",
+  "published_date": "2026-06-05T17:06:14.867+0800",
+  "size": 510136727,
+  "download_url": "https://accoblobstorageus.blob.core.windows.net/software/version/konnectpro/KonnectSetup.pkg",
+  "active": true
+}
