@@ -3,10 +3,10 @@
   "name": "konnectpro",
   "version_major": 2,
   "version_minor": 3,
-  "version_build": 1,
+  "version_build": 99,
   "os": "win32",
-  "published_date": "2026-06-10T18:15:15.786+0800",
+  "published_date": "2026-06-30T18:15:15.786+0800",
   "size": 403070976,
-  "download_url": "",
+  "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/KonnectSetup.msi",
   "active": true
 }

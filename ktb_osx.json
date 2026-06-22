@@ -3,10 +3,10 @@
   "name": "konnectpro",
   "version_major": 2,
   "version_minor": 3,
-  "version_build": 0,
+  "version_build": 99,
   "os": "darwin",
-  "published_date": "2026-06-05T17:06:14.867+0800",
+  "published_date": "2026-06-30T17:06:14.867+0800",
   "size": 510136727,
-  "download_url": "",
+  "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/KonnectSetup.pkg",
   "active": true
 }
