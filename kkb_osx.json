@@ -1,0 +1,12 @@
+{
+  "code": "KKNT",
+  "name": "KeyboardKonnect",
+  "version_major": 1,
+  "version_minor": 3,
+  "version_build": 99,
+  "os": "darwin",
+  "published_date": "2026-06-25T11:02:55.656+0000",
+  "size": 436461056,
+  "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/kkbsetup.pkg",
+  "active": true
+}

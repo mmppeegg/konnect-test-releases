@@ -1,0 +1,12 @@
+{
+  "code": "KKNT",
+  "name": "KeyboardKonnect",
+  "version_major": 1,
+  "version_minor": 3,
+  "version_build": 99,
+  "os": "win32",
+  "published_date": "2026-06-25T10:14:12.495+0000",
+  "size": 358195200,
+  "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/kkbsetup.msi",
+  "active": true
+}
