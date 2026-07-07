@@ -7,6 +7,6 @@
   "os": "win32",
   "published_date": "2026-07-06T03:02:20.304+0000",
   "size": 158707712,
-  "download_url": "https://accoblobstorageus.blob.core.windows.net/software/version/konnect/TrueHueSetup.msi",
+  "download_url": "https://raw.githubusercontent.com/mmppeegg/konnect-test-releases/main/TrueHueSetup.msi",
   "active": true
 }
