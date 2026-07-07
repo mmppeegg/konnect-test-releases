@@ -1,0 +1,12 @@
+{
+  "code": "KNT",
+  "name": "Konnect",
+  "version_major": 2,
+  "version_minor": 4,
+  "version_build": 99,
+  "os": "darwin",
+  "published_date": "2026-07-03T07:17:04.765+0000",
+  "size": 257143051,
+  "download_url": "https://accoblobstorageus.blob.core.windows.net/software/version/konnect/TrueHueSetup.pkg",
+  "active": true
+}

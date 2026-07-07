@@ -1,0 +1,12 @@
+{
+  "code": "KNT",
+  "name": "Konnect",
+  "version_major": 2,
+  "version_minor": 4,
+  "version_build": 99,
+  "os": "win32",
+  "published_date": "2026-07-06T03:02:20.304+0000",
+  "size": 158707712,
+  "download_url": "https://accoblobstorageus.blob.core.windows.net/software/version/konnect/TrueHueSetup.msi",
+  "active": true
+}
