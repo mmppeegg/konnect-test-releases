@@ -1,0 +1,15 @@
+﻿{
+  "code": "DWK",
+  "name": "DockWorks14",
+  "version_major": 1,
+  "version_minor": 4,
+  "version_build": 18,
+  "os": "Win32",
+  "published_date": "2026-09-08T14.23.12.6634308+08.00",
+  "size": 4710400,
+  "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/DockWorks.msi",
+  "active": true,
+  "dock_info_file_version_major": 1,
+  "dock_info_file_version_minor": 0,
+  "dock_info_file_version_patch": 0
+}
