@@ -6,7 +6,7 @@
   "version_build": 13,
   "os": "darwin",
   "published_date": "2026-09-30T09:20:30.556+0000",
-  "size": 265134762,
-  "download_url": "https://raw.githubusercontent.com/mmppeegg/konnect-test-releases/main/TrueHueSetup.pkg",
+  "size": 265134762,                   
+  "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/TrueHueSetup.pkg",
   "active": true
 }
