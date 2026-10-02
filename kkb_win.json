@@ -3,10 +3,10 @@
   "name": "KeyboardKonnect",
   "version_major": 1,
   "version_minor": 3,
-  "version_build": 18,
+  "version_build": 19,
   "os": "win32",
-  "published_date": "2026-08-21T10:00:41.712+0000",
-  "size": 326721536,
+  "published_date": "2026-09-30T08:25:29.970+0000",
+  "size": 328912896,
   "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/kkbsetup.msi",
   "active": true
 }
