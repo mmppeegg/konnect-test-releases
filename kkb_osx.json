@@ -3,10 +3,10 @@
   "name": "KeyboardKonnect",
   "version_major": 1,
   "version_minor": 3,
-  "version_build": 19,
+  "version_build": 21,
   "os": "darwin",
-  "published_date": "2026-09-30T08:00:47.987+0000",
-  "size": 407587690,
+  "published_date": "2026-11-05T03:25:05.751+0000",
+  "size": 487278241,
   "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/kkbsetup.pkg",
   "active": true
 }
