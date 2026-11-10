@@ -3,10 +3,10 @@
   "name": "Konnect",
   "version_major": 2,
   "version_minor": 4,
-  "version_build": 13,
+  "version_build": 14,
   "os": "win32",
-  "published_date": "2026-09-30T10:12:38.080+0000",
-  "size": 165969920,
+  "published_date": "2026-11-10T03:02:59.967+0000",
+  "size": 185733120,
   "download_url": "https://github.com/mmppeegg/konnect-test-releases/releases/latest/download/TrueHueSetup.pkg",
   "active": true
 }
